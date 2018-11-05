@@ -13,3 +13,4 @@ https://o9rk0m14mq.codesandbox.io/
 1. Write unit tests
 2. Add scientific calculator features
 3. The mobile view can be made better to occupy full screen
+4. Add support for negative numbers
